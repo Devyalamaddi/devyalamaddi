@@ -1,8 +1,11 @@
 <h1 align="center"> Hi there, I'm Devendra Yalamaddi 👋</h1>
 
-Welcome to my GitHub! I'm a passionate **Full-Stack Developer** with expertise in **React.js, Next.js, Node.js, and MongoDB**. 🚀 I focus on building **scalable, real-time applications and AI-driven solutions**, actively participating in hackathons and competitive programming.  
+[![](https://visitcount.itsvg.in/api?id=devendrayalamaddi&label=Profile%20Views&color=0&icon=8&pretty=false)](https://github.com/Devyalamaddi/)
+
+Welcome to my GitHub! I'm a passionate **Full-Stack Developer** with expertise in **React.js, Next.js, Node.js, and MongoDB**. 🚀 I focus on building **scalable, real-time applications and AI-driven solutions**, actively participating in hackathons and competitive programming.
 
 ---
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F79D00&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Full-Stack+Developer+%7C+AI+Enthusiast;Building+Scalable+and+Impactful+Solutions!">
 </p>
@@ -11,33 +14,32 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer** with expertise i
 
 <table>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> <br>C</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <br>C++</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <br>Python</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <br>Java</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <br>JavaScript</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <br>HTML</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <br>CSS</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/> <br>Bootstrap</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="40" height="40"/> <br>C</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="40" height="40"/> <br>C++</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="40" height="40"/> <br>Python</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="40" height="40"/> <br>Java</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="40" height="40"/> <br>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="40" height="40"/> <br>HTML</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="40" height="40"/> <br>CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40"/> <br>Bootstrap</td>
   </tr>
 <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg" width="40" height="40"/> <br>Tailwind CSS</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/> <br>TypeScript</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <br>React.js</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/> <br>Next.js</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> <br>Node.js</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/> <br>Express.js</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="40" height="40"/> <br>Web Sockets</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/> <br>Redux</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/> <br>Tailwind CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=typescript" width="40" height="40"/> <br>TypeScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="40" height="40"/> <br>React.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40"/> <br>Next.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/> <br>Node.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="40" height="40"/> <br>Express.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=socketio" width="40" height="40"/> <br>Web Sockets</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=redux" width="40" height="40"/> <br>Redux</td>
 </tr>
   <tr>
-    <td align="center"><img src="https://blog.logrocket.com/wp-content/uploads/2021/03/managing-react-state-zustand.png" width="40" height="40"/> <br>Zustand</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/> <br>MongoDB</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/> <br>Oracle SQL</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <br>Git</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/> <br>Figma</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/> <br>Canva</td>
-  </tr>
+    <td align="center"><img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="40" height="40"/> <br>Zustand</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/> <br>MongoDB</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=oracle" width="40" height="40"/> <br>Oracle SQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="40" height="40"/> <br>Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="40" height="40"/> <br>Figma</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=canva" width="40" height="40"/> <br>Canva</td>
   </tr>
 </table>
 
