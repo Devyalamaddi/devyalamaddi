@@ -30,16 +30,16 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer** with expertise i
     <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40"/> <br>Next.js</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/> <br>Node.js</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=express" width="40" height="40"/> <br>Express.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=socketio" width="40" height="40"/> <br>Web Sockets</td>
+    <td align="center"><img src="https://img.jsdelivr.com/github.com/socketio.png" width="40" height="40"/> <br>Web Sockets</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=redux" width="40" height="40"/> <br>Redux</td>
 </tr>
   <tr>
     <td align="center"><img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="40" height="40"/> <br>Zustand</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/> <br>MongoDB</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=oracle" width="40" height="40"/> <br>Oracle SQL</td>
+    <td align="center"><img src="https://img.icons8.com/plasticine/512/oracle-pl-sql--v3.png" width="40" height="40"/> <br>Oracle SQL</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" width="40" height="40"/> <br>Git</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="40" height="40"/> <br>Figma</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=canva" width="40" height="40"/> <br>Canva</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/> <br>Canva</td>
   </tr>
 </table>
 
@@ -50,7 +50,7 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer** with expertise i
 - **[Care Connect](https://github.com/Devyalamaddi/Care-Connect)** – AI-powered health platform for underserved communities.
 - **[Smart Solve](https://github.com/Devyalamaddi/Smart-Solve)** – University-centric doubt resolution system.
 - **[Trip Tact](https://github.com/Devyalamaddi/Trip-Tact)** – A full-stack travel itinerary management system.
-- **[RAWSBE](https://github.com/Devyalamaddi/Rawsbe)** – Blog & movie management system with OracleSQL.
+- **[RAWSBE](https://github.com/Devyalamaddi/Rawsbe)** – Blog & moviemanagement system with OracleSQL.
 
 ---
 
@@ -71,3 +71,10 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer** with expertise i
 📧 **Email:** [devendrayalamaddi@gmail.com](mailto:devendrayalamaddi@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/devendra-yalamaddi-737852211](https://www.linkedin.com/in/devendra-yalamaddi-737852211)  
 🚀 *Let's build something amazing together!*
+
+
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=devyalamaddi&theme=radical&show_icons=true&hide_border=false&count_private=true" style="width: 48%; height: 200px; object-fit: cover;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devyalamaddi&theme=radical&hide_border=false" style="width: 48%; height: 200px; object-fit: cover;"/>
+</div>
