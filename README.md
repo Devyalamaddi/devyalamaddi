@@ -69,8 +69,9 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer** with expertise i
 
 💬 **Let's Connect!**  
 📧 **Email:** [devendrayalamaddi@gmail.com](mailto:devendrayalamaddi@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/devendra-yalamaddi-737852211](https://www.linkedin.com/in/devendra-yalamaddi-737852211)  
-🚀 *Let's build something amazing together!*
+🔗 **LinkedIn:** [linkedin.com/in/devendra-yalamaddi](https://www.linkedin.com/in/devendra-yalamaddi)
+
+🚀 **Portfolio:** [Devendra-Yalamaddi](https://devendra-yalamaddi.vercel.app/)
 
 
 
